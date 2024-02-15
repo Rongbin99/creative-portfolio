@@ -3,6 +3,7 @@
 ![](vision-pro-poster-01.jpg)
 
 Time Taken: ~3 Hours
+
 Made in Adobe Illustrator 2024. [File Here](vision-pro-poster.ai)
 ###### 2024 © Rongbin Gu. All rights reserved.
 
