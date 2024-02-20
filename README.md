@@ -6,13 +6,13 @@ A collection of my work in Photography, Graphic Design, Video Editing, etc.
 - Adobe Premiere Pro
 - Adobe Photoshop
 - Adobe Illustrator
-- Adobe Lightroom
 - Adobe Audition
 - Adobe Media Encoder
 
 ### Comfortable In
 
 - Adobe After Effects
+- Adobe Lightroom
 - DaVinci Resolve
 
 ### Learning
@@ -26,3 +26,4 @@ A collection of my work in Photography, Graphic Design, Video Editing, etc.
 ### Want to Learn
 
 - Adobe XD
+- Adobe Lightroom: Warping, Gradient Shadowing, Blend Modes
