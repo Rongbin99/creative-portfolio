@@ -1,4 +1,4 @@
-# Showcase: [INSERT BLOG LINK](https://rongbin99.github.io/)
+# Showcase: [Visit my Website](https://rongbin99.github.io/arts)
 
 Various photos taken on various cameras and devices, some are edited while others are not. Sometimes shot in RAW.
 
