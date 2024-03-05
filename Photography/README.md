@@ -11,6 +11,7 @@ Various photos taken on various cameras and devices, some are edited while other
 
 ##### Camcorders Used:
 - Sony PXW series
+- Sony FX6
 
 ##### Drones Used:
 - DJI Spark
