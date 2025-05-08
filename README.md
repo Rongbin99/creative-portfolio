@@ -1,6 +1,11 @@
 # Rongbin Gu's Creative Portfolio
+
 A collection of my work in Photography, Graphic Design, Video Editing, etc.
-Find some of my work on my [Instagram!](https://www.instagram.com/rongbin99/) and on my website: [https://rongbin99.github.io/arts](https://rongbin99.github.io/arts)
+
+Find some of my work below:
+- Website: [https://rongbin99.github.io/creative](https://rongbin99.github.io/creative)
+- [Flickr](https://www.flickr.com/photos/rongbin99/)
+- [Instagram](https://www.instagram.com/rongbin99/)
 
 ### Proficient In
 
@@ -9,6 +14,7 @@ Find some of my work on my [Instagram!](https://www.instagram.com/rongbin99/) an
 - Adobe Illustrator
 - Adobe Audition
 - Adobe Media Encoder
+- Figma
 
 ### Comfortable In
 
@@ -19,9 +25,6 @@ Find some of my work on my [Instagram!](https://www.instagram.com/rongbin99/) an
 ### Learning
 
 - Adobe Animate
-- AutoCAD / Revit
-- Altium Designer
-- SOLIDWORKS
 - Blender
 
 ### Want to Learn
